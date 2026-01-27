@@ -50,6 +50,14 @@ Data cleaning was conducted to ensure the dataset’s accuracy, completeness, an
 
 3. Descriptive Statistics
 
+3.1 General Price Overview  
+The analysis of the cleaned dataset (197 observations) reveals that the average price of a pair of shoes is $212.92. The prices range widely from a minimum of $80 to a maximum of $350.
+
+The standard deviation is 79.27, which is relatively high. This indicates a significant variation in pricing strategies across different brands. The median price ($214) is very close to the mean.
+
+<img width="392" height="540" alt="Screenshot 2026-01-27 112056" src="https://github.com/user-attachments/assets/fdeba58e-7040-49e8-9fad-366303bd146d" />
+
+
 
 
 
