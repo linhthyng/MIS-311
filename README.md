@@ -51,11 +51,26 @@ Data cleaning was conducted to ensure the dataset’s accuracy, completeness, an
 3. Descriptive Statistics
 
 3.1 General Price Overview  
+
 The analysis of the cleaned dataset (197 observations) reveals that the average price of a pair of shoes is $212.92. The prices range widely from a minimum of $80 to a maximum of $350.
 
 The standard deviation is 79.27, which is relatively high. This indicates a significant variation in pricing strategies across different brands. The median price ($214) is very close to the mean.
 
 <img width="392" height="540" alt="Screenshot 2026-01-27 112056" src="https://github.com/user-attachments/assets/fdeba58e-7040-49e8-9fad-366303bd146d" />
+
+3.2. Brand Analysis Chart 1  
+
+As illustrated in Chart 1, PUMA commands the highest average price at $307, followed by LaBriza $281 and Umbro $266. This positions them as premium options in this dataset. Conversely, popular global brands like Nike $168 and FILA $161 appear in the lower price tier in this specific dataset, likely due to a focus on entry-level or mass-market product lines.
+
+<img width="727" height="442" alt="Screenshot 2026-01-28 091056" src="https://github.com/user-attachments/assets/429d1058-6154-4745-96e5-34a846b6228a" />
+
+3.3. Price Distribution Chart 2  
+The histogram shows a multimodal distribution, with distinct peaks around the $140 - $220 price range. This suggests that the majority of shoes in the market are priced for the mid-range consumer segment. There is also a noticeable cluster of high-end products priced above $300, catering to the luxury market.
+
+<img width="913" height="552" alt="Screenshot 2026-01-28 091713" src="https://github.com/user-attachments/assets/c4e0eb9d-1013-4c36-a1ef-0235b2288686" />
+
+
+
 
 
 
