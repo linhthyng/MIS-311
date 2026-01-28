@@ -62,12 +62,14 @@ The standard deviation is 79.27, which is relatively high. This indicates a sign
 
 As illustrated in Chart 1, PUMA commands the highest average price at $307, followed by LaBriza $281 and Umbro $266. This positions them as premium options in this dataset. Conversely, popular global brands like Nike $168 and FILA $161 appear in the lower price tier in this specific dataset, likely due to a focus on entry-level or mass-market product lines.
 
-<img width="727" height="442" alt="Screenshot 2026-01-28 091056" src="https://github.com/user-attachments/assets/429d1058-6154-4745-96e5-34a846b6228a" />
+<img width="767" height="511" alt="Screenshot 2026-01-28 101721" src="https://github.com/user-attachments/assets/0dc74e36-334d-4772-8554-3adc662b796d" />
 
-3.3. Price Distribution Chart 2  
-The histogram shows a multimodal distribution, with distinct peaks around the $140 - $220 price range. This suggests that the majority of shoes in the market are priced for the mid-range consumer segment. There is also a noticeable cluster of high-end products priced above $300, catering to the luxury market.
 
-<img width="913" height="552" alt="Screenshot 2026-01-28 091713" src="https://github.com/user-attachments/assets/c4e0eb9d-1013-4c36-a1ef-0235b2288686" />
+3.3. Price Distribution Chart 2    
+The frequency of products in the $80–$320 range is quite high and evenly distributed ranging from 33 to 38 products per group. This shows that the shoe category mainly targets the middle market, and no specific price is absolutely dominant.The retailer is using a balanced pricing strategy, spreading products out to meet different budget levels within the mid-market segment.
+
+<img width="953" height="596" alt="Screenshot 2026-01-28 101658" src="https://github.com/user-attachments/assets/53a75ed3-96a0-41df-a5d2-ddfa52c6b275" />
+
 
 
 
