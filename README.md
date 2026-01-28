@@ -1,4 +1,4 @@
-MISS 311 - Individual Assignment
+MIS 311 - Individual Assignment
 
 Dataset: Shoe Price  
 Student: Ngô Thùy Linh  
